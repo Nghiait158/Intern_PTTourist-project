@@ -1,1 +1,1 @@
-# Intern_PTTourist-project
+# Intern_PTTourist_Project
